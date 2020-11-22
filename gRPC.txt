@@ -1,0 +1,6 @@
+Date: 22/11/2020
+
+The `repeated` field in Protobuf when used in the client side may not have the same behaviours with lists or arrays, so be careful when working with them.
+
+Read: https://developers.google.com/protocol-buffers/docs/proto
+
